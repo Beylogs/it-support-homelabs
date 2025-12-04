@@ -85,6 +85,18 @@ Create groups and assign membership
 
 <img width="1024" height="768" alt="17" src="https://github.com/user-attachments/assets/0a789656-f3fa-44b4-8102-1ac87c8e38fb" />
 
+### 6. Deploy Windows 10 Client VM
+
+Install Windows 10
+
+Set NIC to same network
+
+<img width="1024" height="768" alt="19" src="https://github.com/user-attachments/assets/38f0081e-afe3-45c7-888a-f746f0ef67eb" />
+
+<img width="1024" height="768" alt="20" src="https://github.com/user-attachments/assets/0482adcc-dd5d-4e64-9ce6-4b299c0009ce" />
+
+
+
 
 
 
