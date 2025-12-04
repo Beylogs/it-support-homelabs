@@ -56,6 +56,13 @@ Install Active Directory Domain Services
 
 <img width="1024" height="768" alt="9" src="https://github.com/user-attachments/assets/456a659c-a45c-4f3a-abda-cdeaa03e05d7" />
 
+### 4. Promote Server to Domain Controller
+
+Choose Add a New Forest
+
+Domain: myhomelab.local
+
+Reboot
 <img width="1024" height="768" alt="10" src="https://github.com/user-attachments/assets/6a7f654f-9404-4c01-ab18-956d9072b3b3" />
 
 <img width="1024" height="768" alt="11" src="https://github.com/user-attachments/assets/ffed4b9b-2dfc-4140-92ff-747758593ef5" />
