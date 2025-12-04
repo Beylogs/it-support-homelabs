@@ -186,7 +186,36 @@ Advise user to update password everywhere.
 <img width="1022" height="784" alt="3" src="https://github.com/user-attachments/assets/9c928c39-738c-45eb-89b5-a18d9565e61d" />
 
 
-Change group membership
+Add User to Group
+
+Open Active Directory Users and Computers
+
+<img width="1021" height="777" alt="1" src="https://github.com/user-attachments/assets/94431b0f-95df-480a-b491-280b1d373340" />
+
+Find the user (e.g., John Doe)
+
+Right-click the user → Add to a group
+
+<img width="1021" height="779" alt="2" src="https://github.com/user-attachments/assets/ab34f951-e4da-4f65-a4d3-14f3fee2b0fb" />
+
+Type the group name (e.g., Accounting-Shares)
+
+Click Check Names → OK
+
+<img width="1024" height="771" alt="3" src="https://github.com/user-attachments/assets/5deea534-6660-4051-86a2-dacc09cfc71b" />
+
+<img width="1024" height="769" alt="4" src="https://github.com/user-attachments/assets/461769fb-73bd-46a1-9a4c-2d95e4babded" />
+
+Confirm membership:
+
+User → Properties → Member Of
+
+User may need to log off and back on for rights to apply.
+
+
+<img width="1039" height="783" alt="5" src="https://github.com/user-attachments/assets/836c4648-ed72-4ab8-b230-16483025afa6" />
+
+
 
 Folder permission management
 
