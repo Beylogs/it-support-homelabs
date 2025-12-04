@@ -110,7 +110,7 @@ Use domain admin credentials
 ### 8. IT Support Task Simulations
 
 Password reset
-
+Open Server Manager -> Click Tools -> Select Active Directory Users and Computers
 <img width="1024" height="772" alt="1" src="https://github.com/user-attachments/assets/a6a5a53b-216d-4378-9bff-a17b38bc6f18" />
 
 <img width="1019" height="769" alt="2" src="https://github.com/user-attachments/assets/60e4a533-8166-4a9e-a8a3-b91b8e375200" />
