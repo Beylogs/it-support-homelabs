@@ -107,7 +107,27 @@ Use domain admin credentials
 
 <img width="1022" height="771" alt="23" src="https://github.com/user-attachments/assets/70b7e0eb-f791-4846-9e99-885964d1b1a5" />
 
+### 8. IT Support Task Simulations
 
+Password reset
+
+<img width="1024" height="772" alt="1" src="https://github.com/user-attachments/assets/a6a5a53b-216d-4378-9bff-a17b38bc6f18" />
+
+<img width="1019" height="769" alt="2" src="https://github.com/user-attachments/assets/60e4a533-8166-4a9e-a8a3-b91b8e375200" />
+
+<img width="1024" height="777" alt="3" src="https://github.com/user-attachments/assets/223afcc5-ffab-44dc-98d7-4fc4a8d1c5d1" />
+
+<img width="1021" height="766" alt="4" src="https://github.com/user-attachments/assets/ac93cafe-981a-4a98-8e59-bdcbc2feec29" />
+
+<img width="1019" height="729" alt="5" src="https://github.com/user-attachments/assets/e5712b6d-23cc-4b89-82b0-0fede2f8be8c" />
+
+Unlock account
+
+Change group membership
+
+Folder permission management
+
+Logon script testing
 
 
 
