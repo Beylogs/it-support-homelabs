@@ -69,6 +69,21 @@ Reboot
 
 <img width="1024" height="768" alt="12" src="https://github.com/user-attachments/assets/99e5260d-56c7-4a0a-b957-9a3b642edc0b" />
 
+### 5. Create OU, Groups, and Users
+
+Open AD Users and Computers
+
+Create users (ex. j.santos, m.reyes)
+
+Create groups and assign membership
+
+<img width="1024" height="768" alt="14" src="https://github.com/user-attachments/assets/982c1ecb-85ca-436c-bbc5-0ce2b91c051c" />
+
+<img width="1024" height="768" alt="15" src="https://github.com/user-attachments/assets/8c74ebaf-dd6b-4916-9161-3a465864ded3" />
+
+<img width="1024" height="768" alt="16" src="https://github.com/user-attachments/assets/42a13273-ec4b-4e09-b018-576b1d5aee0a" />
+
+<img width="1024" height="768" alt="17" src="https://github.com/user-attachments/assets/0a789656-f3fa-44b4-8102-1ac87c8e38fb" />
 
 
 
