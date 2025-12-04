@@ -171,8 +171,20 @@ Click Unlock account
 
 Apply changes.
 
+Identify common causes:
+
+Password stored on mobile device email
+
+Old credentials in Run-As
+
+Mapped drives
+
+Services running with user credentials
+
+Advise user to update password everywhere.
 
 <img width="1022" height="784" alt="3" src="https://github.com/user-attachments/assets/9c928c39-738c-45eb-89b5-a18d9565e61d" />
+
 
 Change group membership
 
