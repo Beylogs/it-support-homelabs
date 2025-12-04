@@ -125,13 +125,21 @@ Use domain admin credentials
 ### 8. IT Support Task Simulations
 
 Password reset
-Open Server Manager -> Click Tools -> Select Active Directory Users and Computers
+Open Server Manager -> Click Tools
+
+Select Active Directory Users and Computers
 
 
 <img width="1024" height="772" alt="1" src="https://github.com/user-attachments/assets/a6a5a53b-216d-4378-9bff-a17b38bc6f18" />
 
 
-Selec the OU -> Search User -> Right Click - Choose Reset Password -> Check User must change password at next Logon -> input the new password -> Click OK
+Selec the OU -> Search User
+
+Right Click - Choose Reset Password
+
+Check User must change password at next Logon 
+
+input the new password -> Click OK
 
 
 <img width="1019" height="769" alt="2" src="https://github.com/user-attachments/assets/60e4a533-8166-4a9e-a8a3-b91b8e375200" />
@@ -143,6 +151,28 @@ Selec the OU -> Search User -> Right Click - Choose Reset Password -> Check User
 <img width="1019" height="729" alt="5" src="https://github.com/user-attachments/assets/e5712b6d-23cc-4b89-82b0-0fede2f8be8c" />
 
 Unlock account
+Open ADUC → Users.
+Locate the user.
+
+<img width="1021" height="777" alt="1" src="https://github.com/user-attachments/assets/fc6754c3-b2d0-4628-80ba-a35d5c6db757" />
+
+
+Right-click → Properties → Account
+
+
+<img width="1027" height="778" alt="2" src="https://github.com/user-attachments/assets/2546b367-d420-4cdf-9839-2d16fe7e7c35" />
+
+
+Account is locked out (checkbox)
+
+Clear the lockout
+
+Click Unlock account
+
+Apply changes.
+
+
+<img width="1022" height="784" alt="3" src="https://github.com/user-attachments/assets/9c928c39-738c-45eb-89b5-a18d9565e61d" />
 
 Change group membership
 
