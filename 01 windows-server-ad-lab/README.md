@@ -95,6 +95,17 @@ Set NIC to same network
 
 <img width="1024" height="768" alt="20" src="https://github.com/user-attachments/assets/0482adcc-dd5d-4e64-9ce6-4b299c0009ce" />
 
+### 7. Join Domain
+
+System → Rename this PC → Join Domain
+
+Use domain admin credentials
+
+<img width="1024" height="768" alt="21" src="https://github.com/user-attachments/assets/26bc8cc5-0441-41d4-a12a-b13f9958bd83" />
+
+<img width="1715" height="926" alt="22" src="https://github.com/user-attachments/assets/3bfc9344-faa1-4197-a167-5af4083a9cc1" />
+
+<img width="1022" height="771" alt="23" src="https://github.com/user-attachments/assets/70b7e0eb-f791-4846-9e99-885964d1b1a5" />
 
 
 
